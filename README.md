@@ -1,4 +1,4 @@
-### Hi there, I'm Adrean 👋
+### Hi there, I'm Adrean Paul Soroño 👋
 
 #### 🔭 I’m currently working on Errand Catcher, a web application for CAPSTONE42.
 
