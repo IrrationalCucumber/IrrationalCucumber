@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Adrean 👋
 
+## 🔭 I’m currently working on Errand Catcher, a web application for CAPSTONE42.
+
+## 🌱 I’m currently learning React for the project I'm currently working.
 <!--
 **IrrationalCucumber/IrrationalCucumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
