@@ -1,0 +1,38 @@
+.body{
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    padding: 40px 20px 30px 20px;
+}
+
+.detail{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: blueviolet;
+    justify-self: center;
+    padding: 20px;
+}
+
+
+
+.row{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+.about{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    background-image: linear-gradient(red, yellow)
+}
+
+.p{
+    justify-content: center;
+    align-items: center;
+}
