@@ -10,7 +10,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: blueviolet;
+    
     justify-self: center;
     padding: 20px;
 }
@@ -29,7 +29,7 @@
     flex-direction: column;
     justify-content: center;
     padding: 20px;
-    background-image: linear-gradient(red, yellow)
+    /*background-image: linear-gradient(red, yellow)*/
 }
 
 .p{
