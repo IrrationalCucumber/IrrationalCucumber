@@ -4,6 +4,7 @@
 
 #### 🌱 I’m currently learning React for the project I'm currently working.
 
+#### RESUME: https://docs.google.com/document/d/1nN0mxtbMh7zIQFIIF4AebDFwIVgEOSNZ/edit?usp=sharing&ouid=113488374342137302817&rtpof=true&sd=true
 <!--
 **IrrationalCucumber/IrrationalCucumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
