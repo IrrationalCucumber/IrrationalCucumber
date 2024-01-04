@@ -4,7 +4,6 @@
 
 #### 🌱 I’m currently learning React for the project I'm currently working.
 
-#### PORTFOLIO: https://irrationalcucumber.github.io/IrrationalCucumber/
 <!--
 **IrrationalCucumber/IrrationalCucumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
